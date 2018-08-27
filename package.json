@@ -2,7 +2,7 @@
   "name": "buzz-word-bingo",
   "version": "1.0.0",
   "description": "**A Buzz Word Tracker**",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/drcox23/Buzz-Word-Bingo/issues"
   },
-  "homepage": "https://github.com/drcox23/Buzz-Word-Bingo#readme"
+  "homepage": "https://github.com/drcox23/Buzz-Word-Bingo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
